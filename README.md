@@ -1,3 +1,5 @@
+#paper： EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces Vernon J Lawhern1,5, Amelia J Solon1,2, Nicholas R Waytowich1,3, Stephen M Gordon1,2, Chou P Hung1,4 and Brent J Lance1 
+
 # Introduction
 This is the Army Research Laboratory (ARL) EEGModels project: A Collection of Convolutional Neural Network (CNN) models for EEG signal processing and classification, written in Keras and Tensorflow. The aim of this project is to
 
